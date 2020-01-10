@@ -7,7 +7,7 @@ package Arithmetic;
 
 /**
  *
- * @author KHUONGNGUYEN
+ * @author ThanhNhan
  */
 public class Bounds {
 
