@@ -7,7 +7,7 @@ package Arithmetic;
 
 /**
  *
- * @author KHUONGNGUYEN
+ * @author ThanhNhan
  */
 import java.io.Serializable;
 public class HuffNode implements Serializable {
